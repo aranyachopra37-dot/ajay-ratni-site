@@ -1,0 +1,116 @@
+{
+  "_note": "Recovered from the corrupted static export (_next/static/chunks/2r0vityy7-nzr.js). Content data survived the corruption intact; use this to verify nothing is lost when rebuilding from source.",
+  "introReelYouTubeId": "1nlHMQfiEY0",
+  "categories": [
+    {
+      "category": "Projects",
+      "items": [
+        {
+          "label": "Project 01",
+          "kind": "instagram",
+          "url": "https://www.instagram.com/reel/DZEOx-eqaC0/"
+        },
+        {
+          "label": "Project 02",
+          "kind": "instagram",
+          "url": "https://www.instagram.com/reel/DVXkE86EWV7/"
+        },
+        {
+          "label": "Project 03",
+          "kind": "instagram",
+          "url": "https://www.instagram.com/reel/DVxMv7QkeDi/"
+        }
+      ]
+    },
+    {
+      "category": "Short Film",
+      "items": [
+        {
+          "label": "Short Film 01",
+          "kind": "instagram",
+          "url": "https://www.instagram.com/reel/DYE1UfVMKHd/"
+        },
+        {
+          "label": "Short Film 02",
+          "kind": "instagram",
+          "url": "https://www.instagram.com/reel/DXLIN8mCIje/"
+        },
+        {
+          "label": "Short Film 03",
+          "kind": "youtube",
+          "url": "https://youtu.be/mf2Mzi_ag0E"
+        },
+        {
+          "label": "Short Film 04",
+          "kind": "instagram",
+          "url": "https://www.instagram.com/reel/DRper1LDHQZ/"
+        }
+      ]
+    },
+    {
+      "category": "Scene Work",
+      "items": [
+        {
+          "label": "Scene Work 01",
+          "kind": "youtube",
+          "url": "https://youtu.be/y1RzrKijDnE"
+        }
+      ]
+    },
+    {
+      "category": "Audition",
+      "items": [
+        {
+          "label": "Audition 01",
+          "kind": "youtube",
+          "url": "https://youtu.be/tlBeiluCQ0k"
+        },
+        {
+          "label": "Audition 02",
+          "kind": "youtube",
+          "url": "https://youtu.be/QI6ANre8h8M"
+        },
+        {
+          "label": "Audition 03",
+          "kind": "youtube",
+          "url": "https://youtu.be/iAGNydJvsHM"
+        },
+        {
+          "label": "Audition 04",
+          "kind": "youtube",
+          "url": "https://youtu.be/ooQWVOq5XhM"
+        },
+        {
+          "label": "Audition 05",
+          "kind": "youtube",
+          "url": "https://youtu.be/I_JjD0pfAJY"
+        },
+        {
+          "label": "Audition 06",
+          "kind": "youtube",
+          "url": "https://youtu.be/eNcVRNtloO4"
+        }
+      ]
+    },
+    {
+      "category": "Ad",
+      "items": [
+        {
+          "label": "Ad Film 01",
+          "kind": "youtube",
+          "url": "https://youtu.be/WR1mKsO0_KE"
+        },
+        {
+          "label": "Ad Film 02",
+          "kind": "youtube",
+          "url": "https://youtu.be/r41ijPd68sE"
+        },
+        {
+          "label": "Ad Film 03",
+          "kind": "youtube",
+          "url": "https://youtu.be/hcnU9XUI64k"
+        }
+      ]
+    }
+  ]
+}
